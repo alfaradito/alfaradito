@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @AlfaRadito
+- 🔭 I’m currently working on PT. TUNGGAL DJAJA INDAH (Cat Paragon)
+- 👀 I’m interested in Software Development (Web, Mobile, Desktop), ERP System, AI
+- 🌱 I’m currently learning Python and AI
+- 📫 How to reach me: email me lemanti.agara@gmail.com
+
