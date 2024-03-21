@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @AlfaRadito
-- 🔭 I’m currently working on PT. Adaro Indonesia Tbk (ADRO)
+- 🔭 I’m currently working on PT. Adaro Indonesia
 - 👀 I’m interested in Software Development (Web, Mobile, Desktop), ERP System, AI
 - 🌱 I’m currently learning Python and AI
 - 📫 How to reach me: email me radito.alfa@gmail.com
